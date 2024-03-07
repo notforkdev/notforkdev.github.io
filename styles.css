@@ -1,0 +1,9 @@
+* {
+    font-family: Verdana;
+    text-align: center;
+    text-decoration: solid rgba(0, 255, 255, 0.418) wavy 10px;
+}
+li {
+    background-color: rgb(55, 187, 240);
+    font-weight: bold;
+}
